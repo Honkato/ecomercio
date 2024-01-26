@@ -2,7 +2,6 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import './index.css'
 import Home from './screens/home.jsx'
-import Login from './screens/Login.jsx'
 import {
   BrowserRouter,
   createBrowserRouter,
